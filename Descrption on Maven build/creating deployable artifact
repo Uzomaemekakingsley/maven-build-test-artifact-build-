@@ -1,0 +1,11 @@
+Preject Discription
+This is a simple project of how to bulid using Maven as your build tool, Wth maven you are able to build and do unit testing using the dependables and plugins from the your local repository or the remote / proxy repo like Nesxus if configured. Maven go further to validate code, compile the codes and test every unit of the code during its build.
+
+There are basically 3 process involved in Maven build namely 
+1.clean , removal of old builds 
+2. converting the code into computer readable bite code and compiling them
+3. the default which consist of 
+    validation, compiling, installing , testing e.t.c.
+
+
+To make maven installation easy, i have written a shell script to automate the installation.
